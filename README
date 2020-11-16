@@ -1,0 +1,14 @@
+1) To run the program go into the folder "cd C3792A2"
+2) Insert a sample input file into this folder
+3) Type "make"
+4) Run the program by typing "./prodcon 3 1 <input_file_name"
+
+
+-- It should be compiled via CPP 14 and above
+-- Tested on Debian based Linux machines, test machine, Ubuntu 20.04
+
+
+Assumptions made for the input:
+-- S or T will be capitalized
+-- No extra characters at the end of the file, this includes white space characters
+-- There won't be any other inputs other than S or T with a number attached to them
